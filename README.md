@@ -4,11 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=wellcome;I%20am%20flutter%20developer;Clean%20Ariticher;Hight%20Performance" alt="Typing introduction" />
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=eng-ahmed0">
-    <img src="https://komarev.com/ghpvc/?username=eng-ahmed0&label=Profile%20views&color=00FFFF&style=flat-square" alt="eng-ahmed0's profile views" />
-  </a>
-</p>
+
+
 
 
 
