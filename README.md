@@ -10,14 +10,8 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
 
-## 📌 About Me
-- 📱 I'm a Flutter Developer passionate about building modern cross-platform mobile applications.
-- 🌱 I'm currently learning AI integration, advanced Flutter architecture, and scalable backend development.
-- 🤝 I'm looking to collaborate on Flutter, Laravel, and REST API projects.
-- 💬 Ask me about Flutter, Firebase, Laravel, REST APIs, and Mobile App Development.
-- 🚀 My goal is to build high-quality applications that solve real-world problems.
+
 
 
 ## 🧠 My Focus Areas
