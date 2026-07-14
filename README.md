@@ -1,16 +1,21 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,100:1565C0&height=250&section=header&text=Osama%20Alsharabi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer&descAlignY=58"/>
 
-<!--
-**eng-ahmed0/eng-ahmed0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+#  Hi, I'm Osama Alsharabi
+### Flutter Developer • Clean Architecture • Mobile UI Specialist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+Building high-performance Flutter applications with clean architecture,<br/>
+beautiful user experiences, and scalable codebases.
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=650&lines=Flutter+Developer;Clean+Architecture+Enthusiast;Cubit+%2F+BLoC+State+Management;Building+Beautiful+Mobile+Applications;Always+Learning+Something+New"/>
+
+<br/>
+</div>
+<br/>
+
+##  About Me
+
+I'm a **Flutter Developer** with **3+ years of experience** designing and shipping production-grade mobile applications — from architecture and state management down to pixel-perfect UI. My goal is simple: turn ideas into reliable, beautiful mobile experiences.
