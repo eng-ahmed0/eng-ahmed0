@@ -30,7 +30,7 @@ beautiful user experiences, and scalable codebases.
 <br>
 
 
- 🧠 My Focus Areas
+ ###  🧠 My Focus Areas
 - Best Qyality Flutter App
 - Fast Laravel Backend
 - Clean Artiticher
