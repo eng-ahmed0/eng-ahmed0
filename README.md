@@ -82,7 +82,7 @@ beautiful user experiences, and scalable codebases.
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="80" />
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" />
   <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="40" />
 
