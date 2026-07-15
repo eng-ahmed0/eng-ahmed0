@@ -1,6 +1,24 @@
+
+
+<div align="center">
 <!-- ========================= HEADER ========================= -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Ahmed%20Al-Ariqie&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Flutter%20Developer%20|%20Laravel%20Backend%20Developer&descSize=20&descAlignY=58"/>
-<p ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=C084FC&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile;Flutter+Developer;Laravel+Backend+Developer;REST+API+%7C+Firebase+Developer;AI+Integration+Enthusiast;Building+Modern+Cross-Platform+Applications"/></p>
+
+#  Hi, I'm Ahmed Al_ariqie
+### Flutter Developer • Clean Architecture • Mobile UI Specialist
+
+<p>
+Building high-performance Flutter applications with clean architecture,<br/>
+beautiful user experiences, and scalable codebases.
+</p>
+
+
+<br/>
+ <p ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=C084FC&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile;Flutter+Developer;Laravel+Backend+Developer;REST+API+%7C+Firebase+Developer;AI+Integration+Enthusiast;Building+Modern+Cross-Platform+Applications"/></p>
+</div>
+<br/>
+
+
 
 
 
