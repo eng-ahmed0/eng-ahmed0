@@ -1,9 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ahmed%20Al_ariqie&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Flutter%20Developer%20%20%20%20&descSize=18&descAlignY=55&textBg=false"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=wellcome;I%20am%20flutter%20developer;Clean%20Ariticher;Hight%20Performance" alt="Typing introduction" />
-</p>
-
+<!-- ======================== HEADER ======================== -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=24,25,26,30&text=Ahmed%20Al-Ariqie&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Flutter%20Developer%20•%20Laravel%20Backend%20Developer&descSize=22&descAlignY=58"/></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=C084FC&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Flutter+Developer;Laravel+Backend+Developer;REST+API+Developer;Firebase+Developer;AI+Integration+Enthusiast"/></p>
+---
 
 
 
@@ -11,7 +9,9 @@
 
 
 
-## 🧠 My Focus Areas
+
+<font Color=ffffff&animation>
+ 🧠 My Focus Areas
 - Flutter Mobile Development
 - Laravel Backend Development
 - REST API Development
@@ -19,6 +19,7 @@
 - AI Integration in Mobile Apps
 - MySQL Database Design
 - Cross-Platform Applications
+</font>
 
 
 ## 📊 GitHub Stats & Trophies
