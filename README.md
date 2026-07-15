@@ -123,25 +123,26 @@ beautiful user experiences, and scalable codebases.
 <br>
  🔗 Connect with Me
   
- <br>
+
    <hr size=1>
+    <br>
+ <br>
+
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-al-ariqie-b8456b422">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="70" />
   </a>&nbsp;&nbsp;
   <a href="https://wa.me/775117988">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="70" />
   </a>&nbsp;&nbsp;
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedalariqie9@gmail.com" target="_blank">  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedalariqie9@gmail.com" target="_blank">  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="70"/></a>
 </p>
-<br><br>
-<h2 align="center">
-💜 Happy Coding 💜
-</h2>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
-</div>
+
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer"/>
 
 
 
