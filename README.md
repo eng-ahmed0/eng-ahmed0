@@ -14,7 +14,7 @@ beautiful user experiences, and scalable codebases.
 
 
 <br/>
- <p ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=C084FC&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile;Flutter+Developer;Laravel+Backend+Developer;REST+API+%7C+Firebase+Developer;AI+Integration+Enthusiast;Building+Modern+Cross-Platform+Applications"/></p>
+ <p ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=900&color=C084FC&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile;Flutter+Developer;Laravel+Backend+Developer;REST+API+%7C+Firebase+Developer;AI+Integration+Enthusiast;Building+Modern+Cross-Platform+Applications"/></p>
 </div>
 <br/>
 
