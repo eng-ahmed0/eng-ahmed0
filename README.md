@@ -111,9 +111,7 @@
   <a href="https://wa.me/775117988">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:ahmedalariqie9@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedalariqie9@gmail.com" target="_blank">  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40"/></a>
 </p>
 <br><br>
 <h2 align="center">
