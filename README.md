@@ -30,7 +30,8 @@ beautiful user experiences, and scalable codebases.
 <br>
 
 
- ###  🧠 My Focus Areas
+  🧠 My Focus Areas
+  ---
 - Best Qyality Flutter App
 - Fast Laravel Backend
 - Clean Artiticher
@@ -41,12 +42,11 @@ beautiful user experiences, and scalable codebases.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
+
  📊 GitHub Stats & Trophies
- <br>
- <br>
+ ---
+
  <br>
  <br>
 <p align="center">
@@ -63,8 +63,9 @@ beautiful user experiences, and scalable codebases.
 <br>
 <br>
 <br>
-<br>
- 🛠️ Languages & Tools
+  🛠️ Languages & Tools
+
+  ---
 <br>
 <br>
 <h3 align="center">Programming Languages</h3>
@@ -121,7 +122,9 @@ beautiful user experiences, and scalable codebases.
 <br>
 <br>
  🔗 Connect with Me
+  
  <br>
+   <hr size=1>
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-al-ariqie-b8456b422">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
@@ -137,7 +140,7 @@ beautiful user experiences, and scalable codebases.
 </h2>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
 
 
